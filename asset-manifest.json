@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-agora-sdk/static/css/main.723a031f.chunk.css",
-    "main.js": "/react-agora-sdk/static/js/main.5b4b132c.chunk.js",
-    "main.js.map": "/react-agora-sdk/static/js/main.5b4b132c.chunk.js.map",
+    "main.js": "/react-agora-sdk/static/js/main.0b2cb12a.chunk.js",
+    "main.js.map": "/react-agora-sdk/static/js/main.0b2cb12a.chunk.js.map",
     "runtime-main.js": "/react-agora-sdk/static/js/runtime-main.aae51372.js",
     "runtime-main.js.map": "/react-agora-sdk/static/js/runtime-main.aae51372.js.map",
     "static/css/2.69121389.chunk.css": "/react-agora-sdk/static/css/2.69121389.chunk.css",
     "static/js/2.e0559242.chunk.js": "/react-agora-sdk/static/js/2.e0559242.chunk.js",
     "static/js/2.e0559242.chunk.js.map": "/react-agora-sdk/static/js/2.e0559242.chunk.js.map",
     "index.html": "/react-agora-sdk/index.html",
-    "precache-manifest.a086c11b330d0f9c289deb2cd7f314ef.js": "/react-agora-sdk/precache-manifest.a086c11b330d0f9c289deb2cd7f314ef.js",
+    "precache-manifest.8960e614212b487d11291f265089c57c.js": "/react-agora-sdk/precache-manifest.8960e614212b487d11291f265089c57c.js",
     "service-worker.js": "/react-agora-sdk/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/react-agora-sdk/static/css/2.69121389.chunk.css.map",
     "static/css/main.723a031f.chunk.css.map": "/react-agora-sdk/static/css/main.723a031f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.e0559242.chunk.js",
     "static/css/main.723a031f.chunk.css",
-    "static/js/main.5b4b132c.chunk.js"
+    "static/js/main.0b2cb12a.chunk.js"
   ]
 }
