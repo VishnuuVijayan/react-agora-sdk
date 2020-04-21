@@ -96,6 +96,7 @@ async function leaveCall() {
 
   // Leave the channel
   await rtc.client.leave();
+  window.location = "/";
 }
 
 function App() {
