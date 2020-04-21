@@ -61,7 +61,7 @@ async function startBasicCall(input) {
       // Play the remote audio and video tracks
       // Pass the ID of the DIV container and the SDK dynamically creates a player in the container for playing the remote video track
 
-      user.videoTrack.play(`${user.uid}`);
+      user.remoteVideoTrack.play(`${user.uid}`);
     }
 
     if (mediaType === "audio" || mediaType === "all") {
@@ -123,13 +123,9 @@ function App() {
         <div
           id="local-stream"
           style={{ height: 480, width: 640 }}
-          className="local-stream"
+          className="stream local-stream"
         ></div>
-        <div
-          id="remote-stream"
-          style={{ height: 480, width: 640 }}
-          className="remote-stream"
-        />
+        <div id="remote-stream" className="stream remote-stream" />
         <input type="submit" value={btn} onClick={leaveCall} />
       </div>
     );
