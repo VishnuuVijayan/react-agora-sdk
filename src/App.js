@@ -16,7 +16,7 @@ const rtc = {
 
 const options = {
   // Pass your app ID here
-  appId: "3c959e7eb4864d75b2539f38e289f6e6",
+  appId: "<ADD-YOUR-APP-ID>",
   // Set the channel name
   channel: "demo_channel_name",
   // Pass a token if your project enables the App Certificate
