@@ -117,16 +117,12 @@ function App() {
   if (flag) {
     return (
       <div className="container">
-        <Button variant="primary" type="submit">
+        <Button variant="primary" type="submit" onClick={leaveCall}>
           {btn}
         </Button>
-        <div
-          id=" stream local-stream"
-          style={{ height: 480, width: 640 }}
-          className="stream local-stream"
-        ></div>
-        <div id="stream remote-stream" className="stream remote-stream" />
-        <input type="submit" value={btn} onClick={leaveCall} />
+        <div id="local-stream" className="stream local-stream"></div>
+        <div id="remote-stream" className="stream remote-stream"></div>
+        {/* <input type="submit" value={btn} onClick={leaveCall} /> */}
       </div>
     );
   }
