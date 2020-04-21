@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb2c0f9f57233d95f0d4a17bb25651ba",
+    "revision": "4b66652de94777305093ecef47a45a65",
     "url": "/react-agora-sdk/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-agora-sdk/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "f07cf2906f488a8cb336",
-    "url": "/react-agora-sdk/static/css/main.d1b05096.chunk.css"
+    "revision": "ccd7a8e53bd4f182c92a",
+    "url": "/react-agora-sdk/static/css/main.723a031f.chunk.css"
   },
   {
     "revision": "7dfa4f9f7374622afeca",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-agora-sdk/static/js/2.e0559242.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f07cf2906f488a8cb336",
-    "url": "/react-agora-sdk/static/js/main.75c0317c.chunk.js"
+    "revision": "ccd7a8e53bd4f182c92a",
+    "url": "/react-agora-sdk/static/js/main.5b4b132c.chunk.js"
   },
   {
     "revision": "fa317302fbe8d0dfb48b",
