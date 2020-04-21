@@ -120,11 +120,7 @@ function App() {
         <Button variant="primary" type="submit">
           {btn}
         </Button>
-        <div
-          id=" stream local-stream"
-          style={{ height: 480, width: 640 }}
-          className="stream local-stream"
-        ></div>
+        <div id=" stream local-stream" className="stream local-stream"></div>
         <div id="stream remote-stream" className="stream remote-stream" />
         <input type="submit" value={btn} onClick={leaveCall} />
       </div>
