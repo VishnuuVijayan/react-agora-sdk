@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e26b16d297f87a0e96f9561d5c1afc67",
+    "revision": "fb2c0f9f57233d95f0d4a17bb25651ba",
     "url": "/react-agora-sdk/index.html"
   },
   {
