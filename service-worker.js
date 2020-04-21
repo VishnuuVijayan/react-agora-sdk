@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-agora-sdk/precache-manifest.6da1fa84b085c385b38d65055da9ed1f.js"
+  "/react-agora-sdk/precache-manifest.ef6d2bfe8d9ab85178fcb6d81397a450.js"
 );
 
 self.addEventListener('message', (event) => {
